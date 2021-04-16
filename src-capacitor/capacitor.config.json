@@ -1,0 +1,7 @@
+{
+  "appId": "uk.dsmdesign.todo",
+  "appName": "q-todo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
